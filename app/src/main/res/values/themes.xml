@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ECG" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your light theme here. Theme.Material3.DayNight.NoActionBar-->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#990090FF</item>
+        <item name="colorPrimaryVariant">#8DE6D9</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#9A0720FD</item>
+        <item name="colorSecondaryVariant">#8DE6D9</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">#28000000</item>
+        <!-- Customize your theme here. -->
+        <item name="android:textColor">#0004FF</item>
+        <item name="android:windowBackground">@drawable/f1</item>
+        <item name="android:buttonBarStyle">@drawable/nfo2</item>
+        <item name="android:alertDialogStyle">@color/black</item>
+
+    </style>
+
+    <style name="Theme.ECG" parent="Base.Theme.ECG" />
+</resources>

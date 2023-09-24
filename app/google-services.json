@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175947240768",
+    "project_id": "zecg-dbd09",
+    "storage_bucket": "zecg-dbd09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175947240768:android:73fd54238675302a1d96a5",
+        "android_client_info": {
+          "package_name": "com.zosen.ecg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBgoWJzPOZgPLoyDa5HKdAEqpkFMRseiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
