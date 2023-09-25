@@ -5,7 +5,7 @@ Aplicacion pensada para facilitar el calculo para la estimacion de consumo de ga
 - Cuantos kilometros recorreras segun la gasolina que tengas
 - Cuanto invertiras de acuerdo a los litros que cargues
 
-Link: https://play.google.com/store/apps/details?id=com.zosen.ECG
+Link: [https://play.google.com/store/apps/details?id=com.zosen.ECG](https://play.google.com/store/apps/details?id=com.zosen.ecg)
 
 <img src="https://i.postimg.cc/0QBT0wMc/Screenshot-20230924-153848-com-zosen-ecg.jpg" width="200"/>
 <img src="https://i.postimg.cc/BtWRdfCF/Screenshot-20230924-153852-com-zosen-ecg.jpg" width="200"/>
